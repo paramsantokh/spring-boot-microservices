@@ -1,3 +1,0 @@
-[submodule "movie-info-service"]
-	path = movie-info-service
-	url = https://github.com/paramsantokh/spring-boot-microservices.git
